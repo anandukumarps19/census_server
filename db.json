@@ -1,0 +1,104 @@
+{
+  "posts": [
+    { "id": 1, 
+    "name": "mohanlal", 
+    "age" :  68,
+    "Address": "lalettan palace",
+    "location" : "Kochi",
+    "Photo": "",
+    "Contact.No": 7541568565
+      },
+       { "id": 2, 
+    "name": "Mohammed kutti", 
+    "age" :  72,
+    "Address": "Mammotty banglaw",
+    "location" : "Ernakulam",
+    "Photo": "",
+    "Contact.No": 415645647
+      },
+
+ { "id": 3, 
+    "name": "Post 1", 
+    "age" :  25,
+    "Address": "Puthenpurackal",
+    "location" : "Kottayam",
+    "Photo": "",
+    "Contact.No": 9605331885
+      },
+
+ { "id": 4, 
+    "name": "Post 1", 
+    "age" :  25,
+    "Address": "Puthenpurackal",
+    "location" : "Kottayam",
+    "Photo": "",
+    "Contact.No": 9605331885
+      },
+
+ { "id": 5, 
+    "name": "Post 1", 
+    "age" :  25,
+    "Address": "Puthenpurackal",
+    "location" : "Kottayam",
+    "Photo": "",
+    "Contact.No": 9605331885
+      },
+
+ { "id": 6, 
+    "name": "Post 1", 
+    "age" :  25,
+    "Address": "Puthenpurackal",
+    "location" : "Kottayam",
+    "Photo": "",
+    "Contact.No": 9605331885
+      },
+
+
+ { "id": 7, 
+    "name": "Post 1", 
+    "age" :  25,
+    "Address": "Puthenpurackal",
+    "location" : "Kottayam",
+    "Photo": "",
+    "Contact.No": 9605331885
+      },
+
+ { "id": 8, 
+    "name": "Post 1", 
+    "age" :  25,
+    "Address": "Puthenpurackal",
+    "location" : "Kottayam",
+    "Photo": "",
+    "Contact.No": 9605331885
+      },
+
+ { "id": 9, 
+    "name": "Post 1", 
+    "age" :  25,
+    "Address": "Puthenpurackal",
+    "location" : "Kottayam",
+    "Photo": "",
+    "Contact.No": 9605331885
+      },
+
+       { "id": 10, 
+    "name": "Post 1", 
+    "age" :  25,
+    "Address": "Puthenpurackal",
+    "location" : "Kottayam",
+    "Photo": "",
+    "Contact.No": 9605331885
+      },
+
+ { "id": 11, 
+    "name": "Post 1", 
+    "age" :  25,
+    "Address": "Puthenpurackal",
+    "location" : "Kottayam",
+    "Photo": "",
+    "Contact.No": 9605331885
+      }
+
+  ]
+  
+}
