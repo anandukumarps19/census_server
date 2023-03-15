@@ -6,7 +6,7 @@
     "Address": "lalettan palace",
     "location" : "Kochi",
     "Photo": "",
-    "Contact.No": 7541568565
+    "ContactNo": 7541568565
       },
        { "id": 2, 
     "name": "Mohammed kutti", 
@@ -14,7 +14,7 @@
     "Address": "Mammotty banglaw",
     "location" : "Ernakulam",
     "Photo": "",
-    "Contact.No": 415645647
+    "ContactNo": 415645647
       },
 
  { "id": 3, 
@@ -23,7 +23,7 @@
     "Address": "Puthenpurackal",
     "location" : "Kottayam",
     "Photo": "",
-    "Contact.No": 9605331885
+    "ContactNo": 9605331885
       },
 
  { "id": 4, 
@@ -32,7 +32,7 @@
     "Address": "Puthenpurackal",
     "location" : "Kottayam",
     "Photo": "",
-    "Contact.No": 9605331885
+    "ContactNo": 9605331885
       },
 
  { "id": 5, 
@@ -41,7 +41,7 @@
     "Address": "Puthenpurackal",
     "location" : "Kottayam",
     "Photo": "",
-    "Contact.No": 9605331885
+    "ContactNo": 9605331885
       },
 
  { "id": 6, 
@@ -50,7 +50,7 @@
     "Address": "Puthenpurackal",
     "location" : "Kottayam",
     "Photo": "",
-    "Contact.No": 9605331885
+    "ContactNo": 9605331885
       },
 
 
@@ -60,7 +60,7 @@
     "Address": "Puthenpurackal",
     "location" : "Kottayam",
     "Photo": "",
-    "Contact.No": 9605331885
+    "ContactNo": 9605331885
       },
 
  { "id": 8, 
@@ -69,7 +69,7 @@
     "Address": "Puthenpurackal",
     "location" : "Kottayam",
     "Photo": "",
-    "Contact.No": 9605331885
+    "ContactNo": 9605331885
       },
 
  { "id": 9, 
@@ -78,7 +78,7 @@
     "Address": "Puthenpurackal",
     "location" : "Kottayam",
     "Photo": "",
-    "Contact.No": 9605331885
+    "ContactNo": 9605331885
       },
 
        { "id": 10, 
@@ -87,7 +87,7 @@
     "Address": "Puthenpurackal",
     "location" : "Kottayam",
     "Photo": "",
-    "Contact.No": 9605331885
+    "ContactNo": 9605331885
       },
 
  { "id": 11, 
@@ -96,7 +96,7 @@
     "Address": "Puthenpurackal",
     "location" : "Kottayam",
     "Photo": "",
-    "Contact.No": 9605331885
+    "ContactNo": 9605331885
       }
 
   ]
